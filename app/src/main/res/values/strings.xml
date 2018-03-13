@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="action_settings">Settings</string>
+    <string name="shared_preferences">Datos Personales</string>
+    <string name="email">Email</string>
+    <string name="gender">Sexo</string>
+    <string name="female">Femenino</string>
+    <string name="male">Masculino</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="coding">Cantar</string>
+    <string name="writing">Practicar Deporte</string>
+    <string name="jogging">Cine</string>
+    <string name="zodiac">Signo Zodiacal</string>
+    <string name="save_me">Save Me</string>
+    <string name="retrieve">Get Me</string>
+
+    <string-array name="zodiac">
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Geminis</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpion</item>
+        <item>Sagitario</item>
+        <item>Capricornio</item>
+        <item>Acuario</item>
+        <item>Piscis</item>
+    </string-array>
+
+</resources>
